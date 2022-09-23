@@ -371,9 +371,9 @@
       "image": "",
       "suit": "bastos",
       "type": "menor",
-      "meaning_up": "It is a card of valour, for, on the surface, six are attacking one, who has, however, the vantage position. On the intellectual plane, it signifies discussion, wordy strife; in business--negotiations, war of trade, barter, competition. It is further a card of success, for the combatant is on the top and his enemies may be unable to reach him.",
-      "meaning_rev": "Perplexity, embarrassments, anxiety. It is also a caution against indecision.",
-      "desc": "A young man on a craggy eminence brandishing a staff; six other staves are raised towards him from below."
+      "meaning_up": "Es una carta de valor, porque, en la superficie, seis están atacando a uno, que tiene, sin embargo, la posición ventajosa. En el plano intelectual, significa discusión, lucha verbal; en los negocios: negociaciones, guerra comercial, trueque, competencia. Además, es una carta de éxito, ya que el combatiente está en la parte superior y es posible que sus enemigos no puedan alcanzarlo.",
+      "meaning_rev": "Perplejidad, vergüenza, ansiedad. También es una advertencia contra la indecisión.",
+      "desc": "Un joven en una eminencia escarpada blandiendo un bastón; otras seis varas se elevan hacia él desde abajo."
     },
     {
       "name": "Ocho de bastos",
@@ -383,9 +383,9 @@
       "image": "",
       "suit": "bastos",
       "type": "menor",
-      "meaning_up": "Activity in undertakings, the path of such activity, swiftness, as that of an express messenger; great haste, great hope, speed towards an end which promises assured felicity; generally, that which is on the move; also the arrows of love.",
-      "meaning_rev": "Arrows of jealousy, internal dispute, stingings of conscience, quarrels; and domestic disputes for persons who are married.",
-      "desc": "The card represents motion through the immovable-a flight of bastos through an open country; but they draw to the term of their course. That which they signify is at hand; it may be even on the threshold."
+      "meaning_up": "Actividad en las empresas, el camino de tal actividad, rapidez, como la de un mensajero expreso; mucha prisa, mucha esperanza, rapidez hacia un fin que promete felicidad asegurada; generalmente, lo que está en movimiento; también las flechas del amor.",
+      "meaning_rev": "Flechas de celos, disputas internas, aguijones de conciencia, riñas; y disputas domésticas para personas casadas.",
+      "desc": "La carta representa el movimiento a través de lo inamovible: un vuelo de bastos a través de un campo abierto; pero dibujan al término de su curso. Lo que significan está a la mano; puede estar incluso en el umbral."
     },
     {
       "name": "Nueve de bastos",
@@ -395,9 +395,9 @@
       "image": "",
       "suit": "bastos",
       "type": "menor",
-      "meaning_up": "The card signifies strength in opposition. If attacked, the person will meet an onslaught boldly; and his build shews, that he may prove a formidable antagonist. With this main significance there are all its possible adjuncts--delay, suspension, adjournment.",
-      "meaning_rev": "Obstacles, adversity, calamity.",
-      "desc": "The figure leans upon his staff and has an expectant look, as if awaiting an enemy. Behind are eight other staves--erect, in orderly disposition, like a palisade."
+      "meaning_up": "La carta significa fuerza en la oposición. Si es atacada, la persona se enfrentará con audacia a un ataque; y su complexión muestra que puede resultar un formidable antagonista. Con este significado principal están todos sus adjuntos posibles: demora, suspensión, aplazamiento.",
+      "meaning_rev": "Obstáculos, adversidad, calamidad.",
+      "desc": "La figura se apoya en su bastón y tiene una mirada expectante, como si esperara a un enemigo. Detrás hay otras ocho duelas, erguidas, en disposición ordenada, como una empalizada."
     },
     {
       "name": "Diez de bastos",
@@ -407,9 +407,9 @@
       "image": "",
       "suit": "bastos",
       "type": "menor",
-      "meaning_up": "A card of many significances, and some of the readings cannot be harmonized. I set aside that which connects it with honour and good faith. The chief meaning is oppression simply, but it is also fortune, gain, any kind of success, and then it is the oppression of these things. It is also a card of false-seeming, disguise, perfidy. The place which the figure is approaching may suffer from the rods that he carries. Success is stultified if the Nueve de espadas follows, and if it is a question of a lawsuit, there will be certain loss.",
-      "meaning_rev": "Contrarieties, difficulties, intrigues, and their analogies.",
-      "desc": "A man oppressed by the wOcho de the ten staves which he is carrying."
+      "meaning_up": "Una carta de muchos significados, y algunas de las lecturas no se pueden armonizar. Dejo a un lado lo que lo conecta con el honor y la buena fe. El significado principal es simplemente opresión, pero también es fortuna, ganancia, cualquier tipo de éxito, y luego es la opresión de estas cosas. También es una carta de falsa apariencia, disfraz, perfidia. El lugar al que se acerca la figura puede sufrir por las varas que lleva. El éxito se embrutece si sigue la Nueve de espadas, y si se trata de pleito, habrá pérdida segura.",
+      "meaning_rev": "Contrariedades, dificultades, intrigas y sus analogías.",
+      "desc": "Un hombre oprimido por el peso de las diez varas que lleva."
     },
     {
       "name": "Sota de copas",
@@ -419,9 +419,9 @@
       "image": "",
       "suit": "copas",
       "type": "menor",
-      "meaning_up": "Fair young man, one impelled to render service and with whom the Querent will be connected; a studious youth; news, message; application, reflection, meditation; also these things directed to business.",
-      "meaning_rev": "Taste, inclination, attachment, seduction, deception, artifice.",
-      "desc": "A fair, pleasing, somewhat effeminate sota, of studious and intent aspect, contemplates a fish rising from a cup to look at him. It is the pictures of the mind taking form."
+      "meaning_up": "Hermoso joven, uno impulsado a prestar servicio y con quien el/la Consultante estará relacionado; una juventud estudiosa; noticia, mensaje; aplicación, reflexión, meditación; también estas cosas dirigidas a los negocios.",
+      "meaning_rev": "Gusto, inclinación, apego, seducción, engaño, artificio.",
+      "desc": "Un sota rubio, simpático, algo afeminado, de aspecto estudioso y atento, contempla un pez que sube de una copa para mirarlo. Son las imágenes de la mente tomando forma."
     },
     {
       "name": "Caballero de copas",
@@ -431,21 +431,21 @@
       "image": "",
       "suit": "copas",
       "type": "menor",
-      "meaning_up": "Arrival, approach--sometimes that of a messenger; advances, proposition, demeanour, invitation, incitement.",
-      "meaning_rev": "Trickery, artifice, subtlety, swindling, duplicity, fraud.",
-      "desc": "Graceful, but not warlike; riding quietly, wearing a winged helmet, referring to those higher graces of the imagination which sometimes characterize this card. He too is a dreamer, but the images of the side of sense haunt him in his vision."
+      "meaning_up": "Llegada, acercamiento—a veces el de un mensajero; insinuaciones, proposición, conducta, invitación, incitación.",
+      "meaning_rev": "Engaño, artificio, sutileza, estafa, duplicidad, fraude.",
+      "desc": "Agraciado, pero no belicoso; cabalgando tranquilamente, usando un casco alado, refiriéndose a esas gracias superiores de la imaginación que a veces caracterizan esta carta. Él también es un soñador, pero las imágenes del lado de los sentidos lo persiguen en su visión."
     },
     {
       "name": "Reina de copas",
       "name_short": "cuqu",
       "value": "reina",
       "value_int": 13,
-      "image": "",
+      "image": "https://i.pinimg.com/564x/ce/ad/86/cead86ae56294c568a65420e4474f494.jpg",
       "suit": "copas",
       "type": "menor",
-      "meaning_up": "Good, fair woman; honest, devoted woman, who will do service to the Querent; loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue; a perfect spouse and a good mother.",
-      "meaning_rev": "The accounts vary; good woman; otherwise, distinguished woman but one not to be trusted; perverse woman; vice, dishonour, depravity.",
-      "desc": "Beautiful, fair, dreamy--as one who sees visions in a cup. This is, however, only one of her aspects; she sees, but she also acts, and her activity feeds her dream."
+      "meaning_up": "Buena, hermosa mujer; mujer honesta y devota, que prestará servicio al/la Consultante; inteligencia amorosa, y por lo tanto el don de la visión; éxito, felicidad, placer; también sabiduría, virtud; una esposa perfecta y una buena madre.",
+      "meaning_rev": "Varían; buena mujer; por lo demás, mujer distinguida pero de la que no se puede confiar; mujer perversa; vicio, deshonra, depravación.",
+      "desc": "Hermosa, hermosa, soñadora, como quien ve visiones en una copa. Este es, sin embargo, sólo uno de sus aspectos; ve, pero también actúa, y su actividad alimenta su sueño."
     },
     {
       "name": "Rey de copas",
@@ -455,9 +455,9 @@
       "image": "",
       "suit": "copas",
       "type": "menor",
-      "meaning_up": "Fair man, man of business, law, or divinity; responsible, disposed to oblige the Querent; also equity, art and science, including those who profess science, law and art; creative intelligence.",
-      "meaning_rev": "Dishonest, double-dealing man; roguery, exaction, injustice, vice, scandal, pillage, considerable loss.",
-      "desc": "He holds a short sceptre in his left hand and a great cup in his right; his throne is set upon the sea; on one side a ship is riding and on the other a dolphin is leaping. The implicit is that the Sign of the Cup naturally refers to water, which appears in all the court cards."
+      "meaning_up": "Hombre justo, hombre de negocios, ley o divinidad; responsable, dispuesto a complacer al/la Consultante; también la equidad, el arte y la ciencia, incluidos los que profesan la ciencia, el derecho y el arte; inteligencia creativa.",
+      "meaning_rev": "Hombre deshonesto, de doble trato; picardía, exacción, injusticia, vicio, escándalo, pillaje, pérdida considerable.",
+      "desc": "Sostiene un cetro corto en la mano izquierda y una gran copa en la derecha; su trono está asentado sobre el mar; por un lado navega un barco y por el otro salta un delfín. Lo implícito es que el Signo de la Copa se refiere naturalmente al agua, que aparece en todas las cartas de la corte."
     },
     {
       "name": "As de copas",
@@ -467,9 +467,9 @@
       "image": "",
       "suit": "copas",
       "type": "menor",
-      "meaning_up": "House of the true heart, joy, content, abode, nourishment, abundance, fertility; Holy Table, felicity hereof.",
-      "meaning_rev": "House of the false heart, mutation, instability, revolution.",
-      "desc": "The waters are beneath, and thereon are water-lilies; the hand issues from the cloud, holding in its palm the cup, from which four streams are pouring; a dove, bearing in its bill a cross-marked Host, descends to place the Wafer in the Cup; the dew of water is falling on all sides. It is an intimation of that which may lie behind the Lesser Arcana."
+      "meaning_up": "Casa del verdadero corazón, alegría, contentamiento, morada, alimento, abundancia, fertilidad; Santa Mesa, felicidad de la misma.",
+      "meaning_rev": "Casa del falso corazón, mutación, inestabilidad, revolución.",
+      "desc": "Las aguas están debajo, y sobre ellas hay nenúfares; la mano sale de la nube, sosteniendo en su palma la copa, de la cual brotan cuatro arroyos; una paloma, que lleva en el pico una Hostia marcada con una cruz, desciende para colocar la Hostia en la Copa; el rocío del agua está cayendo por todos lados. Es una indicación de lo que puede estar detrás de los Arcanos Menores."
     },
     {
       "name": "Dos de copas",
@@ -479,9 +479,9 @@
       "image": "",
       "suit": "copas",
       "type": "menor",
-      "meaning_up": "Love, passion, friendship, affinity, union, concord, sympathy, the interrelation of the sexes, and--as a suggestion apart from all offices of divination--that desire which is not in Nature, but by which Nature is sanctified.",
-      "meaning_rev": "Lust, cupidity, jealousy, wish, desire, but the card may also give, says W., \"that desire which is not in nature, but by which nature is sanctified.\"",
-      "desc": "A youth and maiden are pledging one another, and above their copas rises the Caduceus of Hermes, between the great wings of which there appears a lion's head. It is a variant of a sign which is found in a few old examples of this card. Some curious emblematical meanings are attached to it, but they do not concern us in this place."
+      "meaning_up": "El amor, la pasión, la amistad, la afinidad, la unión, la concordia, la simpatía, la interrelación de los sexos y, como sugerencia aparte de todos los oficios de adivinación, ese deseo que no está en la Naturaleza, pero por el cual la Naturaleza es santificada.",
+      "meaning_rev": "La lujuria, la codicia, los celos, el deseo, el deseo, pero la carta también puede dar, dice W., \"ese deseo que no está en la naturaleza, pero por el cual la naturaleza es santificada.\"",
+      "desc": "Un joven y una doncella se están empeñando, y sobre sus copas se alza el Caduceo de Hermes, entre cuyas grandes alas asoma una cabeza de león. Es una variante de un signo que se encuentra en algunos ejemplos antiguos de esta carta. Se le atribuyen algunos significados emblemáticos curiosos, pero que no nos conciernen en este lugar."
     },
     {
       "name": "Tres de copas",
@@ -491,9 +491,9 @@
       "image": "",
       "suit": "copas",
       "type": "menor",
-      "meaning_up": "The conclusion of any matter in plenty, perfection and merriment; happy issue, victory, fulfilment, solace, healing,",
-      "meaning_rev": "Expedition, dispatch, achievement, end. It signifies also the side of excess in physical enjoyment, and the pleasures of the senses.",
-      "desc": "Maidens in a garden-ground with copas uplifted, as if pledging one another."
+      "meaning_up": "La conclusión de cualquier asunto en abundancia, perfección y alegría; cuestión feliz, victoria, cumplimiento, consuelo, curación.",
+      "meaning_rev": "Expedición, despacho, logro, fin. Significa también el lado del exceso en el disfrute físico y los placeres de los sentidos.",
+      "desc": "Doncellas en un terreno de huerta con copas levantadas, como si se comprometieran unas a otras."
     },
     {
       "name": "Cuatro de copas",
@@ -503,9 +503,9 @@
       "image": "",
       "suit": "copas",
       "type": "menor",
-      "meaning_up": "Weariness, disgust, aversion, imaginary vexations, as if the wine of this world had caused satiety only; another wine, as if a fairy gift, is now offered the wastrel, but he sees no consolation therein. This is also a card of blended pleasure.",
-      "meaning_rev": "Novelty, presage, new instruction, new relations.",
-      "desc": "A young man is seated under a tree and contemplates three copas set on the grass before him; an arm issuing from a cloud offers him another cup. His expression notwithstanding is one of discontent with his environment."
+      "meaning_up": "Cansancio, repugnancia, aversión, vejaciones imaginarias, como si el vino de este mundo sólo hubiera causado saciedad; Ahora se ofrece al derrochador otro vino, como si fuera un regalo de hadas, pero no ve en ello ningún consuelo. Esta es también una carta de placer combinado.",
+      "meaning_rev": "Novedad, presagio, nueva instrucción, nuevas relaciones.",
+      "desc": "Un joven está sentado debajo de un árbol y contempla tres copas puestas en la hierba delante de él; un brazo que sale de una nube le ofrece otra copa. No obstante, su expresión es de descontento con su entorno."
     },
     {
       "name": "Cinco de copas",
@@ -515,9 +515,9 @@
       "image": "",
       "suit": "copas",
       "type": "menor",
-      "meaning_up": "ure, looking sideways at three prone copas two others stand upright behind him; a bridge is in the background, leading to a small keep or holding. Divanatory Meanings: It is a card of loss, but something remains over; three have been taken, but two are left; it is a card of inheritance, patrimony, transmission, but not corresponding to expectations; with some interpreters it is a card of marriage, but not without bitterness or frustration.",
-      "meaning_rev": "News, alliances, affinity, consanguinity, ancestry, return, false projects.",
-      "desc": "A dark, cloaked figure, looking sideways at three prone copas two others stand upright behind him; a bridge is in the background, leading to a small keep or holding. Divanatory Meanings: It is a card of loss, but something remains over; three have been taken, but two are left; it is a card of inheritance, patrimony, transmission, but not corresponding to expectations; with some interpreters it is a card of marriage, but not without bitterness or frustration. Reversed: News, alliances, affinity, consanguinity, ancestry, return, false projects"
+      "meaning_up": "It is a card of loss, but something remains over; three have been taken, but two are left; it is a card of inheritance, patrimony, transmission, but not corresponding to expectations; with some interpreters it is a card of marriage, but not without bitterness or frustration. ",
+      "meaning_rev": "Novedades, alianzas, afinidad, consanguinidad, ascendencia, retorno, falsos proyectos.",
+      "desc": "Una figura oscura, encapuchada, mirando de reojo a tres copas boca abajo, otras dos se paran detrás de él; hay un puente en el fondo, que conduce a una pequeña fortaleza o posesión."
     },
     {
       "name": "Seis de copas",
@@ -527,9 +527,9 @@
       "image": "",
       "suit": "copas",
       "type": "menor",
-      "meaning_up": "A card of the past and of memories, looking back, as--for example--on childhood; happiness, enjoyment, but coming rather from the past; things that have vanished. Another reading reverses this, giving new relations, new knowledge, new environment, and then the children are disporting in an unfamiliar precinct.",
-      "meaning_rev": "The future, renewal, that which will come to pass presently.",
-      "desc": "Children in an old garden, their copas filled with flowers."
+      "meaning_up": "Una carta del pasado y de los recuerdos, mirando hacia atrás, como, por ejemplo, a la infancia; felicidad, disfrute, pero viniendo más bien del pasado; cosas que se han desvanecido. Otra lectura invierte esto, brindando nuevas relaciones, nuevos conocimientos, un nuevo entorno, y luego los niños se divierten en un recinto desconocido.",
+      "meaning_rev": "El futuro, la renovación, lo que sucederá en el presente..",
+      "desc": "Niños en un viejo jardín, sus copas llenas de flores."
     },
     {
       "name": "Siete de copas",
@@ -539,9 +539,9 @@
       "image": "",
       "suit": "copas",
       "type": "menor",
-      "meaning_up": "Fairy favours, images of reflection, sentiment, imagination, things seen in the glass of contemplation; some attainment in these degrees, but nothing permanent or substantial is suggested.",
-      "meaning_rev": "Desire, will, determination, project.",
-      "desc": "Strange chalices of vision, but the images are more especially those of the fantastic spirit."
+      "meaning_up": "Favores de hadas, imágenes de reflexión, sentimiento, imaginación, cosas vistas en el espejo de la contemplación; algún logro en estos grados, pero no se sugiere nada permanente o sustancial.",
+      "meaning_rev": "Deseo, voluntad, determinación, proyecto.",
+      "desc": "Extraños cálices de visión, pero las imágenes son más especialmente las del espíritu fantástico."
     },
     {
       "name": "Ocho de copas",
@@ -551,9 +551,9 @@
       "image": "",
       "suit": "copas",
       "type": "menor",
-      "meaning_up": "The card speaks for itself on the surface, but other readings are entirely antithetical--giving joy, mildness, timidity, honour, modesty. In practice, it is usually found that the card shews the decline of a matter, or that a matter which has been thought to be important is really of slight consequence--either for good or evil.",
-      "meaning_rev": "Great joy, happiness, feasting.",
-      "desc": "A man of dejected aspect is deserting the copas of his felicity, enterprise, undertaking or previous concern."
+      "meaning_up": "La carta habla por sí misma en la superficie, pero otras lecturas son completamente antitéticas: dan alegría, mansedumbre, timidez, honor, modestia. En la práctica, generalmente se encuentra que la carta muestra el declive de un asunto, o que un asunto que se ha considerado importante es en realidad de poca importancia, ya sea para bien o para mal.",
+      "meaning_rev": "Gran alegría, felicidad, fiesta.",
+      "desc": "Un hombre de aspecto abatido está abandonando las copas de su felicidad, empresa, compromiso o preocupación anterior."
     },
     {
       "name": "Nueve de copas",
@@ -563,9 +563,9 @@
       "image": "",
       "suit": "copas",
       "type": "menor",
-      "meaning_up": "Concord, contentment, physical bien-être; also victory, success, advantage; satisfaction for the Querent or person for whom the consultation is made.",
-      "meaning_rev": "Truth, loyalty, liberty; but the readings vary and include mistakes, imperfections, etc.",
-      "desc": "A goodly personage has feasted to his heart's content, and abundant refreshment of wine is on the arched counter behind him, seeming to indicate that the future is also assured. The picture offers the material side only, but there are other aspects."
+      "meaning_up": "Concordia, contentamiento, bien-être físico; también victoria, éxito, ventaja; satisfacción para el/la Consultante o persona para quien se realiza la consulta.",
+      "meaning_rev": "Verdad, lealtad, libertad; pero las lecturas varían e incluyen errores, imperfecciones, etc.",
+      "desc": "Un buen personaje se ha dado un festín hasta la saciedad, y en el mostrador arqueado detrás de él hay abundante refresco de vino, lo que parece indicar que el futuro también está asegurado. La imagen ofrece solo el lado material, pero hay otros aspectos."
     },
     {
       "name": "Diez de copas",
@@ -575,9 +575,9 @@
       "image": "",
       "suit": "copas",
       "type": "menor",
-      "meaning_up": "Contentment, repose of the entire heart; the perfection of that state; also perfection of human love and friendship; if with several picture-cards, a person who is taking charge of the Querent's interests; also the town, village or country inhabited by the Querent.",
-      "meaning_rev": "Repose of the false heart, indignation, violence.",
-      "desc": "Appearance of copas in a rainbow; it is contemplated in wonder and ecstacy by a man and woman below, evidently husband and wife. His right arm is about her; his left is raised upward; she raises her right arm. The two children dancing near them have not observed the prodigy but are happy after their own manner. There is a home-scene beyond."
+      "meaning_up": "Contentamiento, reposo de todo el corazón; la perfección de ese estado; también la perfección del amor humano y la amistad; si con varias cartas ilustradas, una persona que se hace cargo de los intereses del/la Consultante; también la ciudad, aldea o país habitado por el/la Consultante.",
+      "meaning_rev": "Reposo del falso corazón, indignación, violencia.",
+      "desc": "Aparición de copas en un arcoíris; es contemplado con asombro y éxtasis por un hombre y una mujer abajo, evidentemente marido y mujer. Su brazo derecho está sobre ella; su izquierda está levantada hacia arriba; ella levanta su brazo derecho. Los dos niños que bailan cerca de ellos no han observado al prodigio pero están felices a su manera. Hay una escena hogareña más allá."
     },
     {
       "name": "Sota de oros",
