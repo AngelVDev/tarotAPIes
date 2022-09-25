@@ -9,19 +9,13 @@ const app = express();
 const router = express.Router();
 
 const root =
-  process.env.NODE_ENV === "production"
-    ? path.join(__dirname, "..")
-    : __dirname;
-
+  process.env.NODE_ENV === "production" ? path.join(__dirname, ".") : __dirname;
 app.use(bodyParser.json());
 app.use("/static", express.static(path.join(root, "static")));
 
 app.get("/", (_req, res) => {
+  console.log(root);
   return res.sendFile("static/index.html", { root });
-});
-
-app.get("/documentation.yaml", (_req, res) => {
-  return res.sendFile("static/RWS-card-api.yaml", { root });
 });
 
 app.use("/api/v1/", router);
@@ -120,7 +114,7 @@ router.get("/cards/suits/:suit", (req, res, next) => {
 router.get("/cards/courts", (_req, res) => {
   const { cards } = res.locals.rawData;
   const courtCards = cards.filter((c) =>
-    ["queen", "king", "page", "knight"].includes(c.value)
+    ["reina", "rey", "sota", "caballo"].includes(c.value)
   );
   return res.json({ nhits: courtCards.length, cards: courtCards }).status(200);
 });
@@ -149,7 +143,7 @@ router.use(function (err, _req, res) {
   res.json({ error: { status: err.status, message: err.message } });
 });
 
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 3000;
 
 app.listen(port, function () {
   console.log("RWS API Server now running on port", port);
