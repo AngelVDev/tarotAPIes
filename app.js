@@ -81,18 +81,37 @@ router.get("/cards/search", (req, res) => {
     .status(200);
 });
 
-router.get("/cards/random", function (req, res) {
+router.get("/random", function (req, res) {
   const { cards } = res.locals.rawData;
-  const n = req.query.n > 0 && req.query.n < 79 ? req.query.n : 78;
+  const type = req.query.type;
   let cardPool = cloneDeep(cards);
+  if (type === "mayor") cardPool = cardPool.filter((c) => c.type === "mayor");
+  if (type === "menor") cardPool = cards.filter((c) => c.type === "menor");
+  const len = cardPool.length;
+  const n = req.query.n > 0 && req.query.n < len + 1 ? req.query.n : len;
+
   let returnCards = [];
   for (let i = 0; i < n; i++) {
-    let id = Math.floor(Math.random() * (78 - i));
+    let id = Math.floor(Math.random() * (len - i));
     let card = cardPool[id];
     returnCards.push(card);
     remove(cardPool, (c) => c.name_short === card.name_short);
   }
   return res.json({ nhits: returnCards.length, cards: returnCards });
+});
+router.get("/cards/type/:type", function (req, res, next) {
+  const { cards } = res.locals.rawData;
+  const { type } = req.params;
+  const arcanaMajor = cards.filter((c) => c.type === "mayor");
+  const arcanaMinor = cards.filter((c) => c.type === "menor");
+  if (type === "mayor") {
+    return res.json(arcanaMajor);
+  }
+  if (type === "menor") {
+    return res.json(arcanaMinor);
+  }
+
+  next();
 });
 
 router.get("/cards/:id", (req, res, next) => {
