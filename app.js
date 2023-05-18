@@ -105,10 +105,10 @@ router.get("/cards/type/:type", function (req, res, next) {
   const arcanaMajor = cards.filter((c) => c.type === "mayor");
   const arcanaMinor = cards.filter((c) => c.type === "menor");
   if (type === "mayor") {
-    return res.json(arcanaMajor);
+    return res.json({nhits: arcanaMajor.length, cards: arcanaMajor}).status(200);
   }
   if (type === "menor") {
-    return res.json(arcanaMinor);
+    return res.json({nhits: arcanaMinor.length, cards: arcanaMinor}).status(200);
   }
 
   next();
