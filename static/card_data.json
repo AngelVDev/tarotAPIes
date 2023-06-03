@@ -7,6 +7,8 @@
       "name": "El Mago",
       "value": "1",
       "value_int": 1,
+"meaning_up": "Habilidad, dirección, sutileza; enfermedad, dolor, pérdida, desastre, asechanzas de enemigos; confianza en sí mismo, voluntad; el Consultante (si es hombre).",
+      "meaning_rev": "Médico, mago, enfermedad mental, desgracia, inquietud.",
       "image": "https://i.pinimg.com/564x/2c/f4/ef/2cf4efb01f16cb14fdbf4ffe7a33bafe.jpg",
       "amor": "Si tú actualmente estás disponible o en búsqueda de un nuevo romance, este es un momento en que es muy probable que conozcas a alguien nuevo. Si estás en una relación a largo plazo, la relación va a elevarse a nuevos niveles, más profundos, de compromiso y disfrute. Este es un excelente momento para salir y conocer gente o para superar situaciones negativas que haya habido en la pareja. Esta carta también indica que eres tú quien tiene la solución o el poder de decidir sobre la relación.",
 
@@ -52,6 +54,7 @@
       "amor": "Este es un momento potente para el amor, es posible que los hombres y mujeres por igual estén descubriendo que de repente eres mucho más atractiva (tanto en términos de la amistad como de romance)Si eres soltera, este es un momento en que el amor  verdadero podría muy bien llegar a ti. Las relaciones de compromiso, noviazgos y matrimonios a menudo se vuelven más dulces, más profundas, más verdaderas bajo esta influencia.Hay sentimientos generosos, comprensión y mucha armonía. Posibilidades de embarazo y descendencia prolífera. Equilibrio total entre la sensualidad, la armonía y los sentimientos profundos.",
       "finanzas": "Esta carta muestra un excelente momento para  realizar inversiones, sigue tus instintos acerca de ellas. El dinero debe estar fluyendo muy bien.Asegúrate de mantener el flujo en ese sentido y es posible qu e te sientas atraído a dar dinero a alguna causa, una entidad o quizá una person a que necesita ayuda y es importante para ti. Comparte tu abundancia.Hay mejoras de ingresos, aumentos de salarios y hasta una cuota de suerte en el azar que pu ede generarte dinero.",
       "salud": "Si tú estás tratando de quedar embarazada, esta es una excelente señal de que esto puede ser inminente.Si no estás lista para ser madre o de momento no quieres, deberás extremar los cuidados y precauciones para no quedar embarazada, ya que esta carta muestra que es una posibilidad significativa.Esta carta indica muy buena salud o excelente recuperación de una enfermedad, con gran fortaleza física y mental.Si estás teniendo problemas de salud de algún tipo, reflexiona desde un punto de vista diferente; ¿Qué es lo que tu cuerpo tratando de decir? Considera agregar algún tipo de enfoque naturista o homeopático a tu régimen de salud.",
+      "espiritualidad": "Tu intuición bien puede estar tratando de enviarte un mensaje durante este tiempo también. Será importante escucharla atentamente ahora y, si eso requiere que pases tiempo a solas, a pesar de que haya otros que te necesitan, tu tiempo a solas debe ser tu prioridad. Presta atención a mensajes o avisos que parecen venir a usted ahora, a través de tus intuiciones que, en este momento serán repetidas y fuertes.",
       "desc": "Figura majestuosa, sentada, de ricas vestiduras y aspecto real, como de hija del cielo y de la tierra. Su diadema es de doce estrellas, reunidas en un racimo. El símbolo de Venus está en el escudo que descansa cerca de ella. Un campo de maíz está madurando frente a ella, y más allá hay una caída de agua. El cetro que porta está coronado por el globo de este mundo. Ella es el Jardín del Edén inferior, el Paraíso Terrenal, todo lo que está simbolizado por la casa visible del hombre. Ella no es Regina coeli, pero sigue siendo refugium peccatorum, la fecunda madre de miles. También hay ciertos aspectos en los que se la ha descrito correctamente como el deseo y sus alas, como la mujer vestida de sol, como Gloria Mundi y el velo del Sanctum Sanctorum; pero ella no es, debo añadir, el alma que ha obtenido alas, a menos que todo el simbolismo se cuente de otra manera inusual. Ella es sobre todas las cosas la fecundidad universal y el sentido exterior del Verbo. Esto es obvio, porque no hay mensaje directo que se le haya dado al hombre como el que lleva la mujer; pero ella misma no lleva su interpretación.\nEn otro orden de ideas, la carta de la Emperatriz significa la puerta o puerta por la cual se obtiene una entrada a esta vida, como al Jardín de Venus; y luego el camino que sale de allí, hacia lo que está más allá, es el secreto conocido por la Suma Sacerdotisa: es comunicado por ella a los elegidos. La mayoría de las atribuciones antiguas de esta carta están completamente equivocadas en el simbolismo, como, por ejemplo, su identificación con la Palabra, la Naturaleza Divina, la Tríada, etc."
     },
     {
@@ -201,7 +204,7 @@
     {
       "type": "mayor",
       "name_short": "ar13",
-      "name": "La M",
+      "name": "La Muerte",
       "value": "13",
       "value_int": 13,
       "image": "https://i.pinimg.com/564x/4c/c5/2f/4cc52f710e407e42ccc25a41e24aa49e.jpg",
@@ -249,7 +252,7 @@
     {
       "type": "mayor",
       "name_short": "ar16",
-      "name": "La Toshe",
+      "name": "La Torre",
       "value": "16",
       "value_int": 16,
       "image": "https://i.pinimg.com/564x/10/04/86/100486ba8eb80989cafca046fdf3c0f9.jpg",
