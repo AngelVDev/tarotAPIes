@@ -30,7 +30,7 @@ tarotAPIes provee información sobre los arcanos descritos en el sitio [Tarot de
 
 1. Se puede [agarrar el archivo JSON](./static/card_data.json) que sirve como fuente de información, con total confianza para tus propios proyectos. (Es una política del autor original, a la cuál adhiero).
 
-2. Clona o forkea este repositorio e instala dependencies las dependencias. Requiere Node 10.0.0 o mayor, y npm 6.0.0 o mayor.
+2. Clona o forkea este repositorio e instala las dependencias. Requiere Node 10.0.0 o mayor, y npm 6.0.0 o mayor.
 
 ```sh
 git clone https://github.com/AngelVDev/tarotAPIes.git
